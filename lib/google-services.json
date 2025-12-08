@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167242165994",
+    "project_id": "parco-assit",
+    "storage_bucket": "parco-assit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167242165994:android:0198a521b6edb838a73193",
+        "android_client_info": {
+          "package_name": "com.yourusername.parkingassistanceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfy7lRDA58Py5xeCaXF7cqUN0FOx96hX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
