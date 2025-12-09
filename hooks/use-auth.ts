@@ -17,7 +17,9 @@ export const useAuth = () => {
   }, []);
 
   const signIn = async (phoneNumber: string): Promise<void> => {
+    
     try {
+        
       setError(null);
       const confirm = await signInWithPhoneNumber(auth, phoneNumber);
       setConfirmation(confirm);
